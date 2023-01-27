@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=sungchae%20Gitgub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=youngjuj%20Gitgub&fontSize=90" />
 </br>
 
 
@@ -48,7 +48,7 @@ I want to be a great back-end developer <br>
 
 <div align="center">  
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hongsungchae&show_icons=true&theme=tokyonight)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngjuj&show_icons=true&theme=tokyonight)
 </div>
 
 
