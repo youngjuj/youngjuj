@@ -9,7 +9,7 @@
 <h3> ✨About Me✨ </h3>
 Hi there 👋 <br>
 I am Youngju Jang. <br> 
-I'm gonna be a great back-end developer! <br>
+I'm gonna be a great back/front-end developer! <br>
 <hr>
 </div>
 
