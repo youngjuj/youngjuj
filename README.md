@@ -25,10 +25,13 @@ I'm gonna be a great back/front-end developer! <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/mySQL-F80000?style=flat&logo=mySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-F7DF1E?style=flat&logo=React&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 </p>
 <br>
